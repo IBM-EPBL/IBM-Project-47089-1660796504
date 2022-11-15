@@ -1,6 +1,6 @@
 Sprint 01
+
 Signs with Smart Connectivity for Better Road Safety
-Team ID - PNT2022TMID41856
 Sprint Goals :
 Create and initialize accounts in various public APIs like OpenWeather API.
 
